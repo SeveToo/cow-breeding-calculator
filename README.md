@@ -1,13 +1,13 @@
 <div align="center" id="top"> 
   
-<h1 align="center">Licznik</h1>
-  <a target="_blank" href="https://sevetoo.github.io/Counter2/">
+<h1 align="center">Cow Breeding Calculator</h1>
+  <a target="_blank" href="https://sevetoo.github.io/cow-breeding-calculator/">
   <img src="./preview.png" alt="Licznik" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/Counter2/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/cow-breeding-calculator/">Demo</a>
 
 </div>
 
@@ -53,12 +53,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/Counter2/
+https://sevetoo.github.io/cow-breeding-calculator/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/Counter2/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/cow-breeding-calculator/" >click link</a> )
 
 ## 😎 Made by
 
